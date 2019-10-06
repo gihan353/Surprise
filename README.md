@@ -60,7 +60,7 @@ The name *SurPRISE* (roughly :) ) stands for Simple Python RecommendatIon
 System Engine.
 
 
-Getting started, example
+Getting started,  simple example:
 ------------------------
 
 Here is a simple example showing how you can (down)load a dataset, split it for
